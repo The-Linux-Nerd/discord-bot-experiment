@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot-experiment",
+  "version": "1.0.0",
+  "description": "My first attempt at creating a discord bot **Fingers crossed**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Linux-Nerd/discord-bot-experiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Linux-Nerd/discord-bot-experiment/issues"
+  },
+  "homepage": "https://github.com/The-Linux-Nerd/discord-bot-experiment#readme"
+}
